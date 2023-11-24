@@ -202,4 +202,11 @@ h3 {
 .items_fun {
     margin-left: 17px;
     }
+
+@media (max-width: 1200px) {
+.imagemGenuino {
+   display: flex;
+   flex-direction: column-reverse;
+}
+}
     
