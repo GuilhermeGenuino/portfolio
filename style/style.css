@@ -138,8 +138,8 @@ gap: 80px;
     }
 
     .imagemMinha {
-    max-width: 500px;
-    max-height: 400px;
+    max-width: auto;
+    max-height: auto;
     }
 }
 
