@@ -140,8 +140,8 @@ gap: 80px;
     .imagemMinha {
     max-width: auto;
     max-height: auto;
-    border: auto solid var(--cor-terciaria);
-    border-radius: auto;
+    border: 0.125rem solid var(--cor-terciaria);
+    border-radius: 1rem;
     }
 }
 
